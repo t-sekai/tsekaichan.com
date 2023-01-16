@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://t-sekai.github.io/tw/categories/</loc>
+    <loc>https://tsekai.com/tw/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-sekai.github.io/categories/"
+                href="https://tsekai.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tw"
-                href="https://t-sekai.github.io/tw/categories/"
+                href="https://tsekai.com/tw/categories/"
                 />
   </url><url>
-    <loc>https://t-sekai.github.io/tw/</loc>
+    <loc>https://tsekai.com/tw/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-sekai.github.io/"
+                href="https://tsekai.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tw"
-                href="https://t-sekai.github.io/tw/"
+                href="https://tsekai.com/tw/"
                 />
   </url><url>
-    <loc>https://t-sekai.github.io/tw/tags/</loc>
+    <loc>https://tsekai.com/tw/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-sekai.github.io/tags/"
+                href="https://tsekai.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tw"
-                href="https://t-sekai.github.io/tw/tags/"
+                href="https://tsekai.com/tw/tags/"
                 />
   </url>
 </urlset>
