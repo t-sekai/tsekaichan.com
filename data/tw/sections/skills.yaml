@@ -1,0 +1,54 @@
+# section information
+section:
+  name: 能力 
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+
+- name: Artificial Intelligence
+  logo: /images/sections/skills/ai.png
+  summary: "Experience with deep learning and computer vision. Capable of implementing neural networks and convolutional neural network using PyTorch."
+
+- name: Mathematics
+  logo: /images/sections/skills/math.png
+  summary: "Experienced with multivariable calculus, linear algebra, differential equations, convex optimization, and dsicrete mathematics."
+
+- name: Andorid Development / Kotlin
+  logo: /images/sections/skills/kotlin.png
+  summary: "Write most of the android programs in Kotlin using Andorid Studio."
+  url: "https://kotlinlang.org"
+
+- name: LaTeX
+  logo: /images/sections/skills/latex.png
+  summary: "Experience with using LaTeX to format academic research paper on Overleaf and for note purposes on Markdown."
+  url: "https://www.latex-project.org"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Using macOS as the main operating system. Capable of writing bash/shell scripts."
+
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  url: "https://git-scm.com/"
+
+
+- name: Java
+  logo: /images/sections/skills/java.png
+  summary: "Experienced with the Java programming language. Used for game development, contest programming and problem solving."
+
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Experienced with the Python programming language. Used for machine learning and robotics development. Experienced with numpy, PyTorch, Matplotlib, etc."
+
+- name: C++
+  logo: /images/sections/skills/c++.png
+  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."

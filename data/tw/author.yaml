@@ -1,0 +1,21 @@
+# some information about you
+name: "Tse-kai Chan (詹澤楷)"
+nickname: "Kevin"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "你好， 我是"
+image: "images/author/kevin.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "tsekaichan@gmail.com"
+  phone: "+1 (650)353-6900"
+  github: t-sekai
+  linkedin: kevinchan2004
+
+# some summary about what you do
+summary:
+  - 我是 UCSD 的本科生
+  - 我是個程序員
+  - 我熱衷於程式競賽
+  - 我在研究機器學習和電腦視覺
+  - 我喜歡玩俄羅斯方塊
+  - 我喜歡拍照攝影

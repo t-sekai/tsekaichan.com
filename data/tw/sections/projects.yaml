@@ -1,23 +1,22 @@
 # section information
 section:
-  name: প্রোজেক্ট
+  name: Projects
   id: projects
-  enable: true
-  weight: 4
-  showOnNavbar: true
-  template: sections/projects.html
+  enable: false
+  weight: 5
+  showOnNavbar: false
   # Can optionally hide the title in sections
   # hideTitle: true
 
 # filter buttons
 buttons:
-- name: সব বিষয়
+- name: All
   filter: "all"
-- name: প্রোফেসনাল
+- name: Professional
   filter: "professional"
-- name: প্রাতিষ্ঠানিক
+- name: Academic
   filter: "academic"
-- name: শখের প্রোজেক্ট
+- name: Hobby
   filter: "hobby"
 
 # your projects

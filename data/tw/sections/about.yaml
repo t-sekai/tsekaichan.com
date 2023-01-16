@@ -1,0 +1,102 @@
+# section information
+section:
+  name: 簡介
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Regents Scholar
+# your company information
+company:
+  name: 加州大學聖地牙哥分校
+  url: "https://www.ucsd.edu"
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: "I'm a freshman and Regents Scholar at the University of California, San Diego (UCSD), majoring in Computer Science. I'm a motivated and talented student interested in developing future technology, especially in the fields of Artificial Intelligence, Mixed Reality, and Neurotechnology. I approach challenges with an innovative and hard-working mindset. Besides being a student, I'm a competitive programmer, researcher, developer, and innovator."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "tsekaichan@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/t-sekai"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/tsekaichan/"
+
+- name: Google Scholar
+  icon: "fas fa-book"
+  url: "https://scholar.google.com/citations?user=V5Oq3WEAAAAJ"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "我的履歷"
+  url: "files/resume.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+#- type: certification
+#  name: Certified Kubernetes Security Specialist
+#  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+
+#- type: certification
+#  name: Istio and IBM Cloud Kubernetes Service
+#  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+
+#- type: certification
+#  name: Artificial Intelligence and Machine Learning
+#  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+#  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+
+- type: soft-skill-indicator
+  name: 領導力
+  percentage: 85
+  color: blue
+
+- type: soft-skill-indicator
+  name: 團隊精神
+  percentage: 90
+  color: yellow
+
+- type: soft-skill-indicator
+  name: 刻苦耐勞
+  percentage: 95
+  color: orange
+
+- type: soft-skill-indicator
+  name: 解決問題
+  percentage: 95
+  color: green
+
+- type: soft-skill-indicator
+  name: 前端
+  percentage: 65
+  color: pink
+
+- type: soft-skill-indicator
+  name: 後端
+  percentage: 80
+  color: "#D62929"
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
