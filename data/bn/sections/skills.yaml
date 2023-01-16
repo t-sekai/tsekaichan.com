@@ -31,8 +31,8 @@ skills:
   summary: "বেশির ভাগ প্রোগ্রামেরই  Docker কন্টেইনার তৈরি করি। মাল্টি স্টেজ এবং মাল্টি আর্কিটেকচার কন্টেইনার নিয়ে অভিজ্ঞতা আছে।"
   url: "https://www.docker.com/"
 
-- name: Prometheus
-  logo: "/images/sections/skills/prometheus.png"
+- name: Java
+  logo: "/images/sections/skills/java.png"
   summary: "Prometheus metrics সেটআপ ও কনফিগার করতে সক্ষম। PromQL, AlertManager নিয়ে অভিজ্ঞতা আছে। Metric exporters লিখাতেও অভিজ্ঞতা আছে।"
   url: "https://prometheus.io/"
 

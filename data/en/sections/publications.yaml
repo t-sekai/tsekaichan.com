@@ -14,69 +14,23 @@ buttons:
   filter: "all"
 - name: "Machine Learning"
   filter: "machinelearning"
-- name: "Image Processing"
-  filter: "image-processing"
-- name: Security
-  filter: "security"
+- name: "Computer Vision"
+  filter: "computervision"
+- name: "Quantum Computing"
+  filter: "quantumcomputing"
 
 # your publications
 publications:
-- title: An Example Paper on Machine Learning
+- title: Arbitrary Quantum State Coins — Implementation and Performance on Quantum-Walk-Based Algorithms
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: 2022 IEEE 2nd International Conference on Power, Electronics and Computer Applications (ICPECA)
+    date: 21-23 Jan 2022
+    url: http://www.icpeca.org
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Tse-kai Chan
+    url: https://tsekai.com
   paper:
-    summary: Voluptate in id id voluptate laboris. Minim mollit aliquip sit aliqua ut exercitation voluptate eiusmod consequat pariatur sunt enim veniam. Velit esse tempor laboris anim tempor officia. Magna non labore duis do esse sit do ipsum culpa. Officia consequat id non duis culpa dolor. Excepteur magna non nostrud cupidatat aute aliqua aliquip.
-    url: https://example.com
-  categories: ["machinelearning","image-processing"]
-  tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
-
-- title: An Sample Paper on Image Processing
-  publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
-  authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
-  paper:
-    summary: Ullamco magna minim cupidatat Lorem ea ex aliqua fugiat et. Dolor quis cillum ea duis irure et commodo aliquip consectetur ullamco labore ut anim nisi. Commodo reprehenderit est consectetur tempor adipisicing occaecat exercitation amet do aliquip dolor do irure. Labore officia ut magna pariatur reprehenderit et ex sit sunt. Magna proident ullamco adipisicing sit.
-    url: https://example.com
-  categories: ["image-processing"]
-  tags: ["Image Processing", "Computer Vision"]
-
-- title: An Example Paper on Security
-  publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
-  authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
-  paper:
-    summary: Dolor ad cupidatat pariatur nulla ipsum ex ullamco nisi anim ullamco. Dolore elit esse in exercitation minim aliqua. Amet velit incididunt magna laboris. Proident reprehenderit deserunt ad officia duis dolor. Tempor nostrud ullamco ullamco sint deserunt cupidatat irure minim consectetur nulla adipisicing sunt.
-    url: https://example.com
-  categories: ["security"]
-  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+    summary: Quantum coin is an essential element of the discrete-time quantum walk, the quantum analog of random walk. Most existing papers relating to quantum coin discussed the implementation and performance of the coin on power-of-two states and degrees of graphs. This paper proposed and analyzed three alternative coins–binary state coin, W state coin, and Walsh-Hadamard coin–that possessed the property to perform on arbitrary states and degrees of graphs. It then discussed the implementation and the performance of the three coins in the application of Quantum Walk and Quantum Walk Search. It compared and discussed the advantages, disadvantages, and errors of the three coins on a quantum simulator and a NISQ computer (i.e. IBM Q). Lastly, it presented further applications for the three coins in quantum-walk-based algorithms and other potential topics in quantum computing.
+    url: https://ieeexplore.ieee.org/abstract/document/9719105
+  categories: ["quantumcomputing"]
+  tags: ["Quantum Computing", "Quantum Walk"]

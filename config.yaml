@@ -1,7 +1,7 @@
 baseURL: https://t-sekai.github.io
 
 languageCode: en-us
-title: "John's Blog"
+title: "t-sekai"
 
 # Use Hugo modules to add theme
 module:

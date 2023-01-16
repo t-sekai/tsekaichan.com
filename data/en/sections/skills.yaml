@@ -30,19 +30,24 @@ skills:
   summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
   url: "https://www.docker.com/"
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
-
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Using macOS as the main operating system. Capable of writing bash/shell scripts."
+
 
 - name: Git
   logo: /images/sections/skills/git.png
   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
   url: "https://git-scm.com/"
+
+
+- name: Java
+  logo: /images/sections/skills/java.png
+  summary: "Experienced with the Java programming language. Used for game development, contest programming and problem solving."
+
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Experienced with the Python programming language. Used for machine learning and robotics development. Experienced with numpy, PyTorch, Matplotlib, etc."
 
 - name: C++
   logo: /images/sections/skills/c++.png
