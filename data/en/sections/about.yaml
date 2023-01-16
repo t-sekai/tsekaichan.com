@@ -37,7 +37,7 @@ socialLinks:
   url: "https://www.linkedin.com/in/tsekaichan/"
 
 - name: Google Scholar
-  icon: "fab fa-book"
+  icon: "fas fa-book"
   url: "https://scholar.google.com/citations?user=V5Oq3WEAAAAJ"
 
 # You can put custom buttons to link your relevant resources.

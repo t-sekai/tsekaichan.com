@@ -11,54 +11,57 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: SU Lab @ UC San Diego
+    url: "https://cseweb.ucsd.edu/~haosu/"
+    location: San Diego, California
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: SU Lab led by Professor Hao Su investigates on topics in computer vision, machine learning, and robotics.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+  - designation: AI Research Intern
+    start: Sept 2022
+    end: Present
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Studying computer vision and deep learning using PyTorch.
+    - Studying the theory behind reinforcement learning on robotics.
+    - Planning to participate in research in the lab summer this year.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Nearal
+    url: "https://www.nearal.com"
+    location: San Jose, California
+    overview: Nearal is a Silicon Valley startup and a location-based app for customers to search/browse and find local gig workers.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Software Engineer Intern
+    start: July 2022
+    end: Feb 2022
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Worked to develop the onboarding and sign-in/up interfaces of Nearal's android app.
+    - Used Kotlin, Android Studio and GitLab in the process.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Asian Pacific Islander American Public Affairs Association (APAPA)
+    url: "https://www.apapa.org"
+    location: Fremont, California
+    overview: APAPA promotes the advancement of Asian and Pacific Islander (API) Americans through active participation and leadership in civic and public affairs. 
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Project Intern
+    start: Jun 2021
+    end: Sept 2021
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Analyzed current water supply and demand trends and their impacts on California's economic development and agriculture using statistics and computational prediction.
+    - Researched and proposed solutions to solve urging problems, such as declining groundwater basins.
+    - Used MATLAB and Python in the process.
+
+- company:
+    name: Cisco
+    url: "https://www.cisco.com"
+    location: San Jose, California
+    overview: Cisco develops, manufactures, and sells networking hardware, software, telecommunications equipment and other high-technology services and products.
+  positions:
+  - designation: Software Engineer Intern (Job Shadow)
+    start: July 2020
+    end: August 2020
+    responsibilities:
+    - Worked with mentor David Soper working on Cisco Intersight, Cisco's product for managing multiple servers.
+    - Implemented automation for a server policy deployment on Cisco Intersight.
+    - Learned from Cisco Executives and workers about career goals and topics, such as marketing, user interface design, and software development

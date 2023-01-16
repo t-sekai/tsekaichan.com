@@ -3,7 +3,7 @@ name: "Tse-kai Chan"
 nickname: "Kevin Chan"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/john.png"
+image: "images/author/kevin.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "tsekaichan@gmail.com"
