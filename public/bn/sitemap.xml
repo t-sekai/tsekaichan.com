@@ -115,19 +115,6 @@
                 href="https://t-sekai.github.io/bn/categories/"
                 />
   </url><url>
-    <loc>https://t-sekai.github.io/bn/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://t-sekai.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://t-sekai.github.io/bn/"
-                />
-  </url><url>
     <loc>https://t-sekai.github.io/bn/posts/markdown-sample/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
@@ -152,6 +139,19 @@
                 rel="alternate"
                 hreflang="bn"
                 href="https://t-sekai.github.io/bn/posts/category/sub-category/"
+                />
+  </url><url>
+    <loc>https://t-sekai.github.io/bn/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://t-sekai.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://t-sekai.github.io/bn/"
                 />
   </url><url>
     <loc>https://t-sekai.github.io/bn/tags/</loc>
