@@ -13,6 +13,9 @@ jobs:
     # checkout to the commit that has been pushed
     - uses: actions/checkout@v3
 
+    - name: Install Node.js dependencies
+      run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2.6.0
       with:
