@@ -50,10 +50,10 @@ resourceLinks:
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-#- type: certification
-#  name: Certified Kubernetes Security Specialist
-#  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-#  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+- type: certification
+  name: UC San Diego
+  url: "https://www.ucsd.edu"
+  badge: "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_California%2C_San_Diego_seal.svg/300px-University_of_California%2C_San_Diego_seal.svg.png"
 
 #- type: certification
 #  name: Istio and IBM Cloud Kubernetes Service
@@ -86,14 +86,14 @@ badges:
   color: green
 
 - type: soft-skill-indicator
-  name: Frontend
-  percentage: 65
+  name: Programming
+  percentage: 85
   color: pink
 
-- type: soft-skill-indicator
-  name: Backend
-  percentage: 80
-  color: "#D62929"
+#- type: soft-skill-indicator
+#  name: Backend
+#  percentage: 80
+#  color: "#D62929"
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
