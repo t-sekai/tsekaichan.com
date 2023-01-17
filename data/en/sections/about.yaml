@@ -28,7 +28,7 @@ socialLinks:
   icon: "fas fa-envelope"
   url: "tsekaichan@gmail.com"
 
-- name: Github
+- name: GitHub
   icon: "fab fa-github"
   url: "https://www.github.com/t-sekai"
 
@@ -86,7 +86,7 @@ badges:
   color: green
 
 - type: soft-skill-indicator
-  name: Programming
+  name: Programming Skills
   percentage: 85
   color: pink
 
