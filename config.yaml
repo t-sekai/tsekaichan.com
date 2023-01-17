@@ -14,7 +14,7 @@ languages:
   en:
     languageName: English
     weight: 1
-  tw:
+  zh-tw:
     languageName: 中文
     weight: 3
 
