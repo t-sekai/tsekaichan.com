@@ -6,7 +6,7 @@ title: "t-sekai"
 # Use Hugo modules to add theme
 module:
   imports:
-  - path: github.com/t-sekai/toha
+  - path: /Users/kevinchan/t-sekai.github.io/themes/toha
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
