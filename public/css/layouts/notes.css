@@ -25,16 +25,12 @@
 
 .note-card-holder{
   padding-top: 2rem;
-  display: grid;
-  grid-gap: 0.5rem;
-  grid-template-columns: repeat(auto-fill, minmax(30rem,1fr));
-  grid-auto-rows: 20px;
 }
 
-/* .note-collection {
+.note-collection {
   display: flex;
   flex-wrap: wrap;
-} */
+}
 
 .note-card {
   align-self: flex-start;
@@ -45,22 +41,7 @@
 }
 
 .note-title{
-  padding-left: 1rem;
-  color: #248aaa;
-}
-
-.note-title span{
-  background: #e5e9f2;
-  padding-right: 5px;
-}
-
-.note-title:before{
-  content:'';
-  display:inline-block;
-  width:98%;
-  height:100%;
-  margin-bottom:-26px;
-  border-bottom: 1px solid #248aaa;
+  font-weight: 800;
 }
 
 .note-card .card-body{
@@ -72,7 +53,7 @@
   border-radius: 3px;
 }
 
-/* .small-note{
+.small-note{
   max-width: 15rem;
 }
 
@@ -84,7 +65,7 @@
   max-width: 40rem;
 }
 
-.huge-note{} */
+.huge-note{}
 
 .note-badge{
   font-size: 10pt;
@@ -165,8 +146,8 @@
     transition: all ease-out 0.3s;
   }
 
-  .content-section.hide .note-card-holder{
-    grid-template-columns: repeat(auto-fill, minmax(30rem,1fr));
+  .content-section.hide .note-card-holder .note-card {
+    max-width: 100%;
     transition: all ease-out 0.3s;
   }
 }

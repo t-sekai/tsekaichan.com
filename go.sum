@@ -1,2 +1,4 @@
 github.com/hugo-toha/toha/v4 v4.0.0-20230105191255-374b4019d89d h1:WJqi4SkJDAcMgXdGNfbzyZyAbw7S14HATAuMyPzZuys=
 github.com/hugo-toha/toha/v4 v4.0.0-20230105191255-374b4019d89d/go.mod h1:p/K34lqlqmhzfPd4cx66od7sjlROBqhMxG30mJz+aKQ=
+github.com/t-sekai/toha v2.2.0+incompatible h1:QichFhJTG9J3614oi46Hq3/nBCoMidEhTc6duVFztko=
+github.com/t-sekai/toha v2.2.0+incompatible/go.mod h1:PB5oHxRjG0OdyqByyRrbNKfsgOKpHkSL+sHZ4x3h+R4=
