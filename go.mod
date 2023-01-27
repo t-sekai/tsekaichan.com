@@ -1,3 +1,3 @@
-module github.com/hugo-toha/hugo-toha.github.io
+module github.com/t-sekai/t-sekai.github.io
 
 go 1.19
