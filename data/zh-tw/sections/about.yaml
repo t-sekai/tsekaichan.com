@@ -65,30 +65,30 @@ badges:
 #  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
 #  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
-- type: soft-skill-indicator
-  name: 領導力
-  percentage: 85
-  color: blue
+#- type: soft-skill-indicator
+#  name: 領導力
+#  percentage: 85
+#  color: blue
 
-- type: soft-skill-indicator
-  name: 團隊精神
-  percentage: 90
-  color: yellow
+#- type: soft-skill-indicator
+#  name: 團隊精神
+#  percentage: 90
+#  color: yellow
 
-- type: soft-skill-indicator
-  name: 刻苦耐勞
-  percentage: 95
-  color: orange
+#- type: soft-skill-indicator
+#  name: 刻苦耐勞
+#  percentage: 95
+#  color: orange
 
-- type: soft-skill-indicator
-  name: 解決問題
-  percentage: 95
-  color: green
+#- type: soft-skill-indicator
+#  name: 解決問題
+#  percentage: 95
+#  color: green
 
-- type: soft-skill-indicator
-  name: 編程能力
-  percentage: 85
-  color: pink
+#- type: soft-skill-indicator
+#  name: 編程能力
+#  percentage: 85
+#  color: pink
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
