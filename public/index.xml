@@ -6,14 +6,24 @@
     <description>Recent content on t-sekai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://t-sekai.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Wed, 01 Mar 2023 03:31:50 -0800</lastBuildDate><atom:link href="https://t-sekai.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>SoCal ICPC 2023</title>
+      <link>https://t-sekai.github.io/posts/life/march.2023/march.1.2023/</link>
+      <pubDate>Wed, 01 Mar 2023 03:31:50 -0800</pubDate>
+      
+      <guid>https://t-sekai.github.io/posts/life/march.2023/march.1.2023/</guid>
+      <description>Leaving UCSD Four days ago (2/25), I participated in the ICPC Southern California Regionals at Riverside City College. ICPC stands for International Collegiate Programming Contest. It was my first time participating adn representing UCSD, so I was very excited. I was part of the second UCSD team: UCSD Team 2. My teammates were Shubham and Victor.
+Since network is prohibbited during the contest, I had to compute a reference sheet the night beforehand.</description>
+    </item>
+    
+    <item>
       <title>Introduction</title>
       <link>https://t-sekai.github.io/posts/introduction/</link>
-      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      <pubDate>Wed, 01 Mar 2023 03:01:50 -0800</pubDate>
       
       <guid>https://t-sekai.github.io/posts/introduction/</guid>
-      <description>Greeting! This is an introduction post. This post tests the followings:
-Hero image is in the same directory as the post. This post should be at top of the sidebar. Post author should be the same as specified in author.yaml file. </description>
+      <description>Hello! I&amp;rsquo;m Kevin Chan. I will be starting to publish post about my personal life moments and thoughts. The main reason for me to post blogs is to:
+Let my family and friends know what I am up to. Let my future self know what I was up to. Help me practice writing in different languages. Make me much more productive and record more moments of my life. Let&amp;rsquo;s get started!</description>
     </item>
     
     <item>
@@ -29,10 +39,10 @@ H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aqu
     
     <item>
       <title>Rich Content</title>
-      <link>https://t-sekai.github.io/posts/category/sub-category/rich-content/</link>
+      <link>https://t-sekai.github.io/posts/life/sub-category/rich-content/</link>
       <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
       
-      <guid>https://t-sekai.github.io/posts/category/sub-category/rich-content/</guid>
+      <guid>https://t-sekai.github.io/posts/life/sub-category/rich-content/</guid>
       <description>This sample post tests the followings:
 Category, sub-category nesting in the sidebar. Hero image and other images are in images folder inside this post directory. Different media rendering like image, tweet, YouTube video, Vimeo video etc. Image Sample Tweet Sample Owl bet you&amp;#39;ll lose this staring contest 🦉 pic.twitter.com/eJh4f2zncC
 &amp;mdash; San Diego Zoo Wildlife Alliance (@sandiegozoo) October 26, 2021 YouTube Video Sample Vimeo Video Sample </description>
