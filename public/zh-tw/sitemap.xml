@@ -139,19 +139,6 @@
                 href="https://t-sekai.github.io/zh-tw/posts/markdown-sample/"
                 />
   </url><url>
-    <loc>https://t-sekai.github.io/zh-tw/posts/life/sub-category/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://t-sekai.github.io/posts/life/sub-category/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/posts/life/sub-category/"
-                />
-  </url><url>
     <loc>https://t-sekai.github.io/zh-tw/tags/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
@@ -163,19 +150,6 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="https://t-sekai.github.io/zh-tw/tags/"
-                />
-  </url><url>
-    <loc>https://t-sekai.github.io/zh-tw/posts/life/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://t-sekai.github.io/posts/life/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/posts/life/"
                 />
   </url><url>
     <loc>https://t-sekai.github.io/zh-tw/tags/%E0%A6%95%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F-%E0%A6%B8%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%8B/</loc>
@@ -203,17 +177,17 @@
                 href="https://t-sekai.github.io/zh-tw/posts/shortcodes/"
                 />
   </url><url>
-    <loc>https://t-sekai.github.io/zh-tw/posts/life/sub-category/rich-content/</loc>
+    <loc>https://t-sekai.github.io/zh-tw/posts/rich-content/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-sekai.github.io/posts/life/sub-category/rich-content/"
+                href="https://t-sekai.github.io/posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/posts/life/sub-category/rich-content/"
+                href="https://t-sekai.github.io/zh-tw/posts/rich-content/"
                 />
   </url><url>
     <loc>https://t-sekai.github.io/zh-tw/notes/go/</loc>
@@ -226,6 +200,18 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="https://t-sekai.github.io/zh-tw/notes/go/"
+                />
+  </url><url>
+    <loc>https://t-sekai.github.io/zh-tw/posts/life/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://t-sekai.github.io/posts/life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://t-sekai.github.io/zh-tw/posts/life/"
                 />
   </url><url>
     <loc>https://t-sekai.github.io/zh-tw/notes/</loc>

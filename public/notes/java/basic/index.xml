@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basics on t-sekai</title>
+    <link>https://t-sekai.github.io/notes/java/basic/</link>
+    <description>Recent content in Basics on t-sekai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://t-sekai.github.io/notes/java/basic/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>I/O</title>
+      <link>https://t-sekai.github.io/notes/java/basic/io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://t-sekai.github.io/notes/java/basic/io/</guid>
+      <description>Scanner Scanner sc = new Scanner(System.in); int n = sc.nextInt(); long ln = sc.nextLong(); double dn = sc.nextDouble(); String s = sc.read(); //sc.readLine(); BufferedReader BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); int n = Integer.parseInt(br.readLine()); int a[] = new int[n]; //n elements in one line StringTokenizer st = new StringTokenizer(br.readLine()); for(int i = 0; i &amp;lt; n; ++i){ a[i] = Integer.parseInt(st.nextToken()); } StreamTokenizer private static StreamTokenizer st; private static int nextInt() throws IOException{ st.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

@@ -4,6 +4,8 @@
   <url>
     <loc>https://t-sekai.github.io/notes/go/basic/</loc>
   </url><url>
+    <loc>https://t-sekai.github.io/notes/java/basic/</loc>
+  </url><url>
     <loc>https://t-sekai.github.io/notes/go/basic/introduction/</loc>
     <xhtml:link
                 rel="alternate"
@@ -51,6 +53,8 @@
                 hreflang="en"
                 href="https://t-sekai.github.io/notes/go/basic/flow-control/"
                 />
+  </url><url>
+    <loc>https://t-sekai.github.io/notes/java/basic/io/</loc>
   </url><url>
     <loc>https://t-sekai.github.io/notes/go/advanced/files/</loc>
     <xhtml:link
@@ -176,8 +180,11 @@
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
+    <loc>https://t-sekai.github.io/posts/life/2023/</loc>
+    <lastmod>2023-03-14T04:20:50-07:00</lastmod>
+  </url><url>
     <loc>https://t-sekai.github.io/posts/</loc>
-    <lastmod>2023-03-01T03:31:50-08:00</lastmod>
+    <lastmod>2023-03-14T04:20:50-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -189,14 +196,36 @@
                 href="https://t-sekai.github.io/posts/"
                 />
   </url><url>
-    <loc>https://t-sekai.github.io/posts/life/march.2023/</loc>
-    <lastmod>2023-03-01T03:31:50-08:00</lastmod>
+    <loc>https://t-sekai.github.io/categories/</loc>
+    <lastmod>2023-03-14T04:20:50-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://t-sekai.github.io/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://t-sekai.github.io/categories/"
+                />
   </url><url>
-    <loc>https://t-sekai.github.io/posts/life/march.2023/march.1.2023/</loc>
-    <lastmod>2023-03-01T03:31:50-08:00</lastmod>
+    <loc>https://t-sekai.github.io/tags/college-life/</loc>
+    <lastmod>2023-03-14T04:20:50-07:00</lastmod>
+  </url><url>
+    <loc>https://t-sekai.github.io/categories/college-life/</loc>
+    <lastmod>2023-03-14T04:20:50-07:00</lastmod>
+  </url><url>
+    <loc>https://t-sekai.github.io/tags/food/</loc>
+    <lastmod>2023-03-14T04:20:50-07:00</lastmod>
+  </url><url>
+    <loc>https://t-sekai.github.io/posts/life/2023/march/</loc>
+    <lastmod>2023-03-14T04:20:50-07:00</lastmod>
+  </url><url>
+    <loc>https://t-sekai.github.io/posts/life/2023/march/14/</loc>
+    <lastmod>2023-03-14T04:20:50-07:00</lastmod>
   </url><url>
     <loc>https://t-sekai.github.io/</loc>
-    <lastmod>2023-03-01T03:31:50-08:00</lastmod>
+    <lastmod>2023-03-14T04:20:50-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -208,8 +237,21 @@
                 href="https://t-sekai.github.io/"
                 />
   </url><url>
+    <loc>https://t-sekai.github.io/tags/</loc>
+    <lastmod>2023-03-14T04:20:50-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://t-sekai.github.io/zh-tw/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://t-sekai.github.io/tags/"
+                />
+  </url><url>
     <loc>https://t-sekai.github.io/posts/life/</loc>
-    <lastmod>2023-03-01T03:31:50-08:00</lastmod>
+    <lastmod>2023-03-14T04:20:50-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -220,6 +262,15 @@
                 hreflang="en"
                 href="https://t-sekai.github.io/posts/life/"
                 />
+  </url><url>
+    <loc>https://t-sekai.github.io/tags/ucsd/</loc>
+    <lastmod>2023-03-14T04:20:50-07:00</lastmod>
+  </url><url>
+    <loc>https://t-sekai.github.io/tags/competition/</loc>
+    <lastmod>2023-03-01T03:31:50-08:00</lastmod>
+  </url><url>
+    <loc>https://t-sekai.github.io/posts/life/2023/march/1/</loc>
+    <lastmod>2023-03-01T03:31:50-08:00</lastmod>
   </url><url>
     <loc>https://t-sekai.github.io/posts/introduction/</loc>
     <lastmod>2023-03-01T03:01:50-08:00</lastmod>
@@ -236,19 +287,6 @@
   </url><url>
     <loc>https://t-sekai.github.io/categories/basic/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-  </url><url>
-    <loc>https://t-sekai.github.io/categories/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://t-sekai.github.io/categories/"
-                />
   </url><url>
     <loc>https://t-sekai.github.io/tags/content-organization/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
@@ -272,17 +310,17 @@
     <loc>https://t-sekai.github.io/tags/multi-lingual/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://t-sekai.github.io/posts/life/sub-category/rich-content/</loc>
+    <loc>https://t-sekai.github.io/posts/rich-content/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/posts/life/sub-category/rich-content/"
+                href="https://t-sekai.github.io/zh-tw/posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-sekai.github.io/posts/life/sub-category/rich-content/"
+                href="https://t-sekai.github.io/posts/rich-content/"
                 />
   </url><url>
     <loc>https://t-sekai.github.io/posts/shortcodes/</loc>
@@ -296,32 +334,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://t-sekai.github.io/posts/shortcodes/"
-                />
-  </url><url>
-    <loc>https://t-sekai.github.io/posts/life/sub-category/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/posts/life/sub-category/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://t-sekai.github.io/posts/life/sub-category/"
-                />
-  </url><url>
-    <loc>https://t-sekai.github.io/tags/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://t-sekai.github.io/tags/"
                 />
   </url><url>
     <loc>https://t-sekai.github.io/notes/</loc>
@@ -360,6 +372,8 @@
                 hreflang="en"
                 href="https://t-sekai.github.io/notes/go/"
                 />
+  </url><url>
+    <loc>https://t-sekai.github.io/notes/java/</loc>
   </url><url>
     <loc>https://t-sekai.github.io/search/</loc>
     <priority>0.1</priority>

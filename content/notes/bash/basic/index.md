@@ -11,7 +11,7 @@ menu:
 
 <!-- Variable -->
 {{< note title="Variable" >}}
-
+    
 ```bash
 NAME="John"
 echo $NAME
