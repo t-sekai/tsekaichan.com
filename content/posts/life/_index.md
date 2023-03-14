@@ -1,5 +1,5 @@
 ---
-title: Top Category Sample
+title: Life
 menu:
   sidebar:
     name: Life
