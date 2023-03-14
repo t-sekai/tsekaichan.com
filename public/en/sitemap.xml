@@ -218,6 +218,19 @@
     <loc>https://t-sekai.github.io/tags/food/</loc>
     <lastmod>2023-03-14T04:20:50-07:00</lastmod>
   </url><url>
+    <loc>https://t-sekai.github.io/posts/life/</loc>
+    <lastmod>2023-03-14T04:20:50-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://t-sekai.github.io/zh-tw/posts/life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://t-sekai.github.io/posts/life/"
+                />
+  </url><url>
     <loc>https://t-sekai.github.io/posts/life/2023/march/</loc>
     <lastmod>2023-03-14T04:20:50-07:00</lastmod>
   </url><url>
@@ -248,19 +261,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://t-sekai.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://t-sekai.github.io/posts/life/</loc>
-    <lastmod>2023-03-14T04:20:50-07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/posts/life/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://t-sekai.github.io/posts/life/"
                 />
   </url><url>
     <loc>https://t-sekai.github.io/tags/ucsd/</loc>
@@ -323,6 +323,8 @@
                 />
   </url><url>
     <loc>https://t-sekai.github.io/notes/java/</loc>
+  </url><url>
+    <loc>https://t-sekai.github.io/posts/photo/</loc>
   </url><url>
     <loc>https://t-sekai.github.io/search/</loc>
     <priority>0.1</priority>
