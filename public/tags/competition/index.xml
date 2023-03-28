@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Competition on t-sekai</title>
-    <link>https://t-sekai.github.io/tags/competition/</link>
+    <link>https://tsekai.com/tags/competition/</link>
     <description>Recent content in Competition on t-sekai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Mar 2023 03:31:50 -0800</lastBuildDate><atom:link href="https://t-sekai.github.io/tags/competition/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Wed, 01 Mar 2023 03:31:50 -0800</lastBuildDate><atom:link href="https://tsekai.com/tags/competition/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>SoCal ICPC 2023</title>
-      <link>https://t-sekai.github.io/posts/life/2023/march/1/</link>
+      <link>https://tsekai.com/posts/life/2023/march/1/</link>
       <pubDate>Wed, 01 Mar 2023 03:31:50 -0800</pubDate>
       
-      <guid>https://t-sekai.github.io/posts/life/2023/march/1/</guid>
+      <guid>https://tsekai.com/posts/life/2023/march/1/</guid>
       <description>Leaving UCSD Four days ago (2/25), I participated in the ICPC Southern California Regionals at Riverside City College. ICPC stands for International Collegiate Programming Contest. It was my first time participating adn representing UCSD, so I was very excited. I was part of the second UCSD team: UCSD Team 2. My teammates were Shubham and Victor.
 Since network is prohibbited during the contest, I had to compute a reference sheet the night beforehand.</description>
     </item>

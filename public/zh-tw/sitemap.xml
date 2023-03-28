@@ -2,187 +2,187 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://t-sekai.github.io/zh-tw/notes/go/basic/introduction/</loc>
+    <loc>https://tsekai.com/zh-tw/notes/go/basic/introduction/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-sekai.github.io/notes/go/basic/introduction/"
+                href="https://tsekai.com/notes/go/basic/introduction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/notes/go/basic/introduction/"
+                href="https://tsekai.com/zh-tw/notes/go/basic/introduction/"
                 />
   </url><url>
-    <loc>https://t-sekai.github.io/zh-tw/notes/go/advanced/</loc>
+    <loc>https://tsekai.com/zh-tw/notes/go/advanced/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-sekai.github.io/notes/go/advanced/"
+                href="https://tsekai.com/notes/go/advanced/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/notes/go/advanced/"
+                href="https://tsekai.com/zh-tw/notes/go/advanced/"
                 />
   </url><url>
-    <loc>https://t-sekai.github.io/zh-tw/notes/go/basic/types/</loc>
+    <loc>https://tsekai.com/zh-tw/notes/go/basic/types/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-sekai.github.io/notes/go/basic/types/"
+                href="https://tsekai.com/notes/go/basic/types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/notes/go/basic/types/"
+                href="https://tsekai.com/zh-tw/notes/go/basic/types/"
                 />
   </url><url>
-    <loc>https://t-sekai.github.io/zh-tw/notes/go/basic/flow-control/</loc>
+    <loc>https://tsekai.com/zh-tw/notes/go/basic/flow-control/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-sekai.github.io/notes/go/basic/flow-control/"
+                href="https://tsekai.com/notes/go/basic/flow-control/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/notes/go/basic/flow-control/"
+                href="https://tsekai.com/zh-tw/notes/go/basic/flow-control/"
                 />
   </url><url>
-    <loc>https://t-sekai.github.io/zh-tw/notes/go/advanced/files/</loc>
+    <loc>https://tsekai.com/zh-tw/notes/go/advanced/files/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-sekai.github.io/notes/go/advanced/files/"
+                href="https://tsekai.com/notes/go/advanced/files/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/notes/go/advanced/files/"
+                href="https://tsekai.com/zh-tw/notes/go/advanced/files/"
                 />
   </url><url>
-    <loc>https://t-sekai.github.io/zh-tw/notes/bash/basic/</loc>
+    <loc>https://tsekai.com/zh-tw/notes/bash/basic/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-sekai.github.io/notes/bash/basic/"
+                href="https://tsekai.com/notes/bash/basic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/notes/bash/basic/"
+                href="https://tsekai.com/zh-tw/notes/bash/basic/"
                 />
   </url><url>
-    <loc>https://t-sekai.github.io/zh-tw/</loc>
+    <loc>https://tsekai.com/zh-tw/</loc>
     <lastmod>2023-03-01T03:01:50-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-sekai.github.io/"
+                href="https://tsekai.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/"
+                href="https://tsekai.com/zh-tw/"
                 />
   </url><url>
-    <loc>https://t-sekai.github.io/zh-tw/posts/introduction/</loc>
+    <loc>https://tsekai.com/zh-tw/posts/introduction/</loc>
     <lastmod>2023-03-01T03:01:50-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-sekai.github.io/posts/introduction/"
+                href="https://tsekai.com/posts/introduction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/posts/introduction/"
+                href="https://tsekai.com/zh-tw/posts/introduction/"
                 />
   </url><url>
-    <loc>https://t-sekai.github.io/zh-tw/posts/</loc>
+    <loc>https://tsekai.com/zh-tw/posts/</loc>
     <lastmod>2023-03-01T03:01:50-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-sekai.github.io/posts/"
+                href="https://tsekai.com/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/posts/"
+                href="https://tsekai.com/zh-tw/posts/"
                 />
   </url><url>
-    <loc>https://t-sekai.github.io/zh-tw/categories/</loc>
+    <loc>https://tsekai.com/zh-tw/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-sekai.github.io/categories/"
+                href="https://tsekai.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/categories/"
+                href="https://tsekai.com/zh-tw/categories/"
                 />
   </url><url>
-    <loc>https://t-sekai.github.io/zh-tw/notes/go/</loc>
+    <loc>https://tsekai.com/zh-tw/notes/go/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-sekai.github.io/notes/go/"
+                href="https://tsekai.com/notes/go/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/notes/go/"
+                href="https://tsekai.com/zh-tw/notes/go/"
                 />
   </url><url>
-    <loc>https://t-sekai.github.io/zh-tw/tags/</loc>
+    <loc>https://tsekai.com/zh-tw/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-sekai.github.io/tags/"
+                href="https://tsekai.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/tags/"
+                href="https://tsekai.com/zh-tw/tags/"
                 />
   </url><url>
-    <loc>https://t-sekai.github.io/zh-tw/posts/life/</loc>
+    <loc>https://tsekai.com/zh-tw/posts/life/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-sekai.github.io/posts/life/"
+                href="https://tsekai.com/posts/life/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/posts/life/"
+                href="https://tsekai.com/zh-tw/posts/life/"
                 />
   </url><url>
-    <loc>https://t-sekai.github.io/zh-tw/notes/</loc>
+    <loc>https://tsekai.com/zh-tw/notes/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-sekai.github.io/notes/"
+                href="https://tsekai.com/notes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/notes/"
+                href="https://tsekai.com/zh-tw/notes/"
                 />
   </url><url>
-    <loc>https://t-sekai.github.io/zh-tw/notes/bash/</loc>
+    <loc>https://tsekai.com/zh-tw/notes/bash/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-sekai.github.io/notes/bash/"
+                href="https://tsekai.com/notes/bash/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://t-sekai.github.io/zh-tw/notes/bash/"
+                href="https://tsekai.com/zh-tw/notes/bash/"
                 />
   </url>
 </urlset>

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on t-sekai</title>
-    <link>https://t-sekai.github.io/categories/</link>
+    <link>https://tsekai.com/categories/</link>
     <description>Recent content in Categories on t-sekai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Mar 2023 04:20:50 -0700</lastBuildDate><atom:link href="https://t-sekai.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Mar 2023 04:20:50 -0700</lastBuildDate><atom:link href="https://tsekai.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
