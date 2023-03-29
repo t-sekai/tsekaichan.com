@@ -1,5 +1,5 @@
 ---
-title: Top Category Sample
+title: 生活
 menu:
   sidebar:
     name: 生活

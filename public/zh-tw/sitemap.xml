@@ -75,7 +75,7 @@
                 />
   </url><url>
     <loc>https://tsekai.com/zh-tw/</loc>
-    <lastmod>2023-03-01T03:01:50-08:00</lastmod>
+    <lastmod>2023-03-01T03:02:50-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -85,6 +85,32 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="https://tsekai.com/zh-tw/"
+                />
+  </url><url>
+    <loc>https://tsekai.com/zh-tw/posts/upcoming/</loc>
+    <lastmod>2023-03-01T03:02:50-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tsekai.com/posts/upcoming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://tsekai.com/zh-tw/posts/upcoming/"
+                />
+  </url><url>
+    <loc>https://tsekai.com/zh-tw/posts/</loc>
+    <lastmod>2023-03-01T03:02:50-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tsekai.com/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://tsekai.com/zh-tw/posts/"
                 />
   </url><url>
     <loc>https://tsekai.com/zh-tw/posts/introduction/</loc>
@@ -98,19 +124,6 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="https://tsekai.com/zh-tw/posts/introduction/"
-                />
-  </url><url>
-    <loc>https://tsekai.com/zh-tw/posts/</loc>
-    <lastmod>2023-03-01T03:01:50-08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tsekai.com/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://tsekai.com/zh-tw/posts/"
                 />
   </url><url>
     <loc>https://tsekai.com/zh-tw/categories/</loc>
@@ -149,18 +162,6 @@
                 href="https://tsekai.com/zh-tw/tags/"
                 />
   </url><url>
-    <loc>https://tsekai.com/zh-tw/posts/life/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tsekai.com/posts/life/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://tsekai.com/zh-tw/posts/life/"
-                />
-  </url><url>
     <loc>https://tsekai.com/zh-tw/notes/</loc>
     <xhtml:link
                 rel="alternate"
@@ -183,6 +184,30 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="https://tsekai.com/zh-tw/notes/bash/"
+                />
+  </url><url>
+    <loc>https://tsekai.com/zh-tw/posts/life/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tsekai.com/posts/life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://tsekai.com/zh-tw/posts/life/"
+                />
+  </url><url>
+    <loc>https://tsekai.com/zh-tw/posts/photo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tsekai.com/posts/photo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://tsekai.com/zh-tw/posts/photo/"
                 />
   </url>
 </urlset>

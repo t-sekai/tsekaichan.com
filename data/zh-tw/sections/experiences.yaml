@@ -10,6 +10,22 @@ section:
 
 # Your experiences
 experiences:
+
+- company:
+    name: Qualcomm Institute Metaverse Academy and Center for Cyber-archaeology and Sustainability
+    url: "http://ccas.ucsd.edu"
+    location: San Diego, California
+    # company overview
+    overview: The Cyber-Archaeology Center at the University of California researches technology like 3D modeling and AI to study archaeological sites and artifacts, and promotes interdisciplinary collaborations between experts to develop new methods for analyzing and interpreting data.
+  positions:
+  - designation: Research and Development (R&D) Intern
+    start: April 2023
+    end: Present
+    responsibilities:
+    - I am further developing the CyberArchWarehouse, an immersive collaborative environment within Unreal Engine 5 developed at the Qualcomm Institutes' Center for Cyber-archaeology and Sustainability.
+    - The CyberArchWarehouse is an open ‘metaverse’ for education and research communities that blends VR/AR, photogrammetry, GIS, and edge computing based rendering. It provides researchers and students a new social medium in which they can come together, analyze and study digitized assets from archaeological artifacts to fully simulated digital twins of natural and manmade structures.
+    - https://cyberarch.pages.nrp-nautilus.io/cyberarchweb/
+
 - company:
     name: SU Lab @ UC San Diego
     url: "https://cseweb.ucsd.edu/~haosu/"
@@ -17,13 +33,12 @@ experiences:
     # company overview
     overview: SU Lab led by Professor Hao Su investigates on topics in computer vision, machine learning, and robotics.
   positions:
-  - designation: AI Research Intern
+  - designation: Regents Scholar Research Initiative
     start: Sept 2022
     end: Present
     responsibilities:
-    - Studying computer vision and deep learning using PyTorch.
-    - Studying the theory behind reinforcement learning on robotics.
-    - Planning to participate in research in the lab summer this year.
+    - Studying and implementing the topics of computer vision, machine learning, and reinforcement learning.
+    - Planning to participate in research in the field in the coming quarters.
 
 - company:
     name: Nearal

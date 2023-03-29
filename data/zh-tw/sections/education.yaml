@@ -10,7 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: B.Sc. in Computer Science, Regents Scholar
+- name: B.Sc. in Computer Science, Regents Scholar, Senior Standing
   icon: fa-graduation-cap
   timeframe: 2022 - 2025
   institution:
@@ -18,18 +18,22 @@ degrees:
     url: "https://www.ucsd.edu"
   grade: #(optional)
     scale: GPA
-    achieved: 3.96
+    achieved: 3.97
     outOf: 4.0
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
     collapseAfter: 3
     courses:
-    - name: Data Structures and Algorithm
-    - name: Computer Systems
-    - name: Intro to Machine Learning
-    - name: Intro to Computer Vision I
-    - name: Machine Learning for Robotics
+    - name: Advanced Data Structre / Algorithm (Enrolled)
+    - name: Deep Learning (Enrolled)
+    - name: Computer Vision II (Enrolled)
+    - name: Computer Systems (A+)
+    - name: Machine Learning
+    - name: Computer Vision I
+    - name: Data Structure (A+) / Algorithm (A+)
+    - name: Statistical Methods
+    
   #publications: #(optional)
   #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   #  url: "#"
@@ -37,7 +41,7 @@ degrees:
   #  url: "#"
   extracurricularActivities: #(optional)
   - Member of Scholars Society, Competitive Programming at UCSD, ACM AI, Triton Neurotech, United Taiwanese Association.
-  - Studying robotics, machine learning, and computer vision under SU Lab.
+  - UCSD ICPC Team Member
 - name: Higher Secondary School Certificate
   icon: fa-university
   timeframe: 2018-2022
@@ -61,7 +65,7 @@ degrees:
   icon: fa-university
   timeframe: 2020-2022
   institution:
-    name: Mission College, West Valley College, and Foothill College
+    name: Mission College, West Valley College, Foothill College, and De Anza College
   grade: #(optional)
     scale: GPA
     achieved: 4

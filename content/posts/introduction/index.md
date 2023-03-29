@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 date: 2023-03-01T03:01:50-08:00
-description: Introduction to Sample Post
+description: Introduction to My Blog
 menu:
   sidebar:
     name: Introduction

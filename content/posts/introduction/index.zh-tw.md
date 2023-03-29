@@ -1,7 +1,7 @@
 ---
 title: "起點"
 date: 2023-03-01T03:01:50-08:00
-description: Introduction to Sample Post
+description: 我部落格的起點
 menu:
   sidebar:
     name: 起點

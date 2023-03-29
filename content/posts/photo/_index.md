@@ -4,5 +4,5 @@ menu:
   sidebar:
     name: Photography
     identifier: photo
-    weight: 20
+    weight: 25
 ---
