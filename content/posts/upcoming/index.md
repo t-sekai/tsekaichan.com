@@ -14,7 +14,6 @@ categories: []
 
 List of Upcoming Blogs:
 
-* Won $100 :)
 * 2023 Winter Quarter Summary
 * Birch Aquarium and La Jolla Cove
 * 🍲 ~ 🌸 ~ 🏛 ~ 🇺🇸

@@ -13,6 +13,8 @@ tags: ["College Life", "UCSD", "Competition"]
 categories: ["College Life"]
 ---
 
+<meta name="googlebot" content="noindex">
+
 ## Leaving UCSD
 
 Four days ago (2/25), I participated in the ICPC Southern California Regionals at Riverside City College. **ICPC** stands for International Collegiate Programming Contest. It was my first time participating adn representing UCSD, so I was very excited. I was part of the second UCSD team: **UCSD Team 2**. My teammates were Shubham and Victor. 
