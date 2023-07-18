@@ -26,10 +26,6 @@ In the morning, I had to leave at 7:00 am to catch the Uber with my teams at 7:3
 
 {{< img src="/posts/life/2023/march/1/images/image1.jpeg" height="400"  title="Raining Day" >}}
 
-{{< img src="/posts/life/2023/march/1/images/image2.jpeg" height="400"  title="Raining Day Selfie" >}}
-
-{{< vs 3 >}}
-
 ## Arriving Riverside City College and the Contest
 
 I got on one of the three Uber XL with my team and team 5. The ride to Riverside was one and a half hours. Since I didn't eat any breakfast, I got kind of carsick on the way; somehow closing my eyes was helpful, so I slept halfway. When we got there, somehow my umbrella broke on the car, so when I got off, I had to put my hoodie on to avoid from getting wet.

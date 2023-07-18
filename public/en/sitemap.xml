@@ -181,13 +181,16 @@
     <priority>0.1</priority>
   </url><url>
     <loc>https://tsekai.com/posts/life/2023/</loc>
-    <lastmod>2023-04-10T01:09:50-08:00</lastmod>
+    <lastmod>2023-04-18T01:19:00-08:00</lastmod>
   </url><url>
     <loc>https://tsekai.com/posts/life/2023/april/</loc>
-    <lastmod>2023-04-10T01:09:50-08:00</lastmod>
+    <lastmod>2023-04-18T01:19:00-08:00</lastmod>
+  </url><url>
+    <loc>https://tsekai.com/tags/attractions/</loc>
+    <lastmod>2023-04-18T01:19:00-08:00</lastmod>
   </url><url>
     <loc>https://tsekai.com/posts/</loc>
-    <lastmod>2023-04-10T01:09:50-08:00</lastmod>
+    <lastmod>2023-04-18T01:19:00-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -200,7 +203,7 @@
                 />
   </url><url>
     <loc>https://tsekai.com/categories/</loc>
-    <lastmod>2023-04-10T01:09:50-08:00</lastmod>
+    <lastmod>2023-04-18T01:19:00-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -213,16 +216,16 @@
                 />
   </url><url>
     <loc>https://tsekai.com/tags/college-life/</loc>
-    <lastmod>2023-04-10T01:09:50-08:00</lastmod>
+    <lastmod>2023-04-18T01:19:00-08:00</lastmod>
   </url><url>
     <loc>https://tsekai.com/categories/college-life/</loc>
-    <lastmod>2023-04-10T01:09:50-08:00</lastmod>
+    <lastmod>2023-04-18T01:19:00-08:00</lastmod>
   </url><url>
-    <loc>https://tsekai.com/tags/competition/</loc>
-    <lastmod>2023-04-10T01:09:50-08:00</lastmod>
+    <loc>https://tsekai.com/posts/life/2023/april/18/</loc>
+    <lastmod>2023-04-18T01:19:00-08:00</lastmod>
   </url><url>
     <loc>https://tsekai.com/posts/life/</loc>
-    <lastmod>2023-04-10T01:09:50-08:00</lastmod>
+    <lastmod>2023-04-18T01:19:00-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -235,7 +238,7 @@
                 />
   </url><url>
     <loc>https://tsekai.com/</loc>
-    <lastmod>2023-04-10T01:09:50-08:00</lastmod>
+    <lastmod>2023-04-18T01:19:00-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -248,7 +251,7 @@
                 />
   </url><url>
     <loc>https://tsekai.com/tags/</loc>
-    <lastmod>2023-04-10T01:09:50-08:00</lastmod>
+    <lastmod>2023-04-18T01:19:00-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -261,6 +264,9 @@
                 />
   </url><url>
     <loc>https://tsekai.com/tags/ucsd/</loc>
+    <lastmod>2023-04-18T01:19:00-08:00</lastmod>
+  </url><url>
+    <loc>https://tsekai.com/tags/competition/</loc>
     <lastmod>2023-04-10T01:09:50-08:00</lastmod>
   </url><url>
     <loc>https://tsekai.com/posts/life/2023/april/10/</loc>

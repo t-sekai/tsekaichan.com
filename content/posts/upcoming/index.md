@@ -19,4 +19,5 @@ List of Upcoming Blogs:
 * 🍲 ~ 🌸 ~ 🏛 ~ 🇺🇸
 * 2023 Spring Break (Ongoing)
 * 2023 Spring Quarter Start
+* Sunset by the Cliff
 * Etc. (Earlier events)
