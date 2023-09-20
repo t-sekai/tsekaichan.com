@@ -18,21 +18,28 @@ degrees:
     url: "https://www.ucsd.edu"
   grade: #(optional)
     scale: GPA
-    achieved: 3.98
+    achieved: 3.99
     outOf: 4.0
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
     collapseAfter: 3
     courses:
-    - name: Advanced Data Structre / Algorithm (Enrolled)
-    - name: Deep Learning (Enrolled)
-    - name: Computer Vision II (Enrolled)
-    - name: Computer Systems (A+)
-    - name: Machine Learning (A+)
-    - name: Computer Vision I (A+)
-    - name: Data Structure (A+) / Algorithm (A+)
-    - name: Statistical Methods 
+    - name: 'CSE 105: Theory of Computability (Enrolled)'
+    - name: 'CSE 110: Software Engineering (Enrolled)'
+    - name: 'CSE 132A: Database System Principles (Enrolled)'
+    - name: 'CSE 275: Graduate Deep Learning for 3-D Data (Enrolled)'
+    - name: 'CSE 152B: Introduction to Computer Vision II'
+    - name: 'CSE 152A: Introduction to Computer Vision I (A+)'
+    - name: 'CSE 190: ML for Music/Audio (A+)'
+    - name: 'CSE 151B: Deep Learning'
+    - name: 'CSE 151A: Introduction to Machine Learning'
+    - name: 'CSE 101: Design and Analysis of Algorithms (A+)'
+    - name: 'CSE 100R: Advanced Data Structures (A+)'
+    - name: 'CSE 30: Computer Organization and Systems Programming (A+)'
+    - name: 'CSE 21: Mathematics for Algorithms and System (A+)'
+    - name: 'CSE 12: Basic Data Structures and Object-Oriented Design (A+)'
+    - name: 'MATH 183: Statistical Methods'
     
   #publications: #(optional)
   #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -40,8 +47,9 @@ degrees:
   #- title: Fusce eu augue ut odio porttitor pulvinar.
   #  url: "#"
   extracurricularActivities: #(optional)
-  - Member of Scholars Society, Competitive Programming at UCSD, ACM AI, Triton Neurotech, United Taiwanese Association.
-  - UCSD ICPC Team Member
+  - Event Lead at ACM AI, ICPC Team Member, Scholar Society
+  - Research RL/Robotics at Prof. Hao Su's Lab
+  - Work on AI/VR software at Qualcomm Institute
 - name: Higher Secondary School Certificate
   icon: fa-university
   timeframe: 2018-2022
@@ -53,40 +61,18 @@ degrees:
     achieved: 3.98
     outOf: 4.00
   extracurricularActivities: #(optional)
-  - President/Founder of Competitive Programming Club (GunnCPC) and Chief Organizer of the Bay Area Programming Contest (BAPC)
-  - President/Founder of Ethics Bowl Club (GunnEthics)
-  - Conducted published research on Quantum Computing with mentorship of Dr. Wenchao Xu, a Postdoctoral Researcher at MIT
-  - Conducted research on Agriculture Irrigation Research with mentorship of Dr. Zaiyi Liao, Professor of Architectural Science at Ryerson University in Canada. Received Honorable Mention in the Synopsys Science and Technology Championship.
-  - Volunteered at Love & Care North America Youth Group, taught programming to underservered students at OpenBrackets and StreetCode Academy, and taught Chinese at Palo Alto Chinese School.
-  publications: #(optional)
-  - title: Arbitrary Quantum State Coins — Implementation and Performance on Quantum-Walk-Based Algorithms
-    url: "https://ieeexplore.ieee.org/abstract/document/9719105"
-- name: Dual Enrollment during High School
-  icon: fa-university
-  timeframe: 2020-2022
-  institution:
-    name: Mission College, West Valley College, Foothill College, and De Anza College
-  grade: #(optional)
-    scale: GPA
-    achieved: 4
-    outOf: 4.00
+  - Presidents of Competitive Programming Club (GunnCPC) and Ethics Bowl Club.
+  - Chief Organizer of the Bay Area Programming Contest (BAPC) in 2021 and 2022.
+  - Published research on Quantum Computing under Dr. Wenchao Xu, now Professor at ETH Zurich.
+  - Researched on optimizing agriculture irrigation under Dr. Zaiyi Liao, Professor at Toronto Metropolitan University. (Honorable Mention, Synopsys Championship Science Fair)
+  #- Volunteered at Love & Care North America Youth Group, taught programming to underservered students at OpenBrackets and StreetCode Academy, and taught Chinese at Palo Alto Chinese School.
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
     collapseAfter: 3
     courses:
-    - name: Multivariable and Vector Calculus
-    - name: Linear Algebra
-    - name: Differential Equations
-    - name: Discrete Mathematics
-    - name: Java Programming
-- name: Secondary School Certificate
-  icon: fa-school
-  timeframe: 2016-2018
-  institution:
-    name: JL Stanford Middle School
-    url: "https://jls.pausd.org"
-  #grade: #(optional)
-  #  scale: GPA
-  #  achieved: 4.5
-  #  outOf: 5
+    - name: '(Relevant Coursework) Analysis Honors, AP Calculus BC, AP Computer Science A, AP Biology, AP Chemistry, AP Physics C: Mechanics & E/M, AP English Literature, AP US History, AP Spanish.'
+    - name: '(Dual-enrolled Coursework) Calculus II, Multivariable Calculus, Vector Calculus, Differential Equations, Linear Algebra, Discrete Mathematics, Java Programming.'
+  publications: #(optional)
+  - title: Arbitrary Quantum State Coins — Implementation and Performance on Quantum-Walk-Based Algorithms
+    url: "https://ieeexplore.ieee.org/abstract/document/9719105"

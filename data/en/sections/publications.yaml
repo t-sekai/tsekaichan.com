@@ -12,10 +12,8 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: "Machine Learning"
-  filter: "machinelearning"
-- name: "Computer Vision"
-  filter: "computervision"
+- name: "Reinforcement Learning"
+  filter: "rl"
 - name: "Quantum Computing"
   filter: "quantumcomputing"
 
@@ -29,8 +27,9 @@ publications:
   authors:
   - name: Tse-kai Chan
     url: https://tsekai.com
+  - name: Wenchao Xu
   paper:
     summary: Quantum coin is an essential element of the discrete-time quantum walk, the quantum analog of random walk. Most existing papers relating to quantum coin discussed the implementation and performance of the coin on power-of-two states and degrees of graphs. This paper proposed and analyzed three alternative coins–binary state coin, W state coin, and Walsh-Hadamard coin–that possessed the property to perform on arbitrary states and degrees of graphs. It then discussed the implementation and the performance of the three coins in the application of Quantum Walk and Quantum Walk Search. It compared and discussed the advantages, disadvantages, and errors of the three coins on a quantum simulator and a NISQ computer (i.e. IBM Q). Lastly, it presented further applications for the three coins in quantum-walk-based algorithms and other potential topics in quantum computing.
     url: https://ieeexplore.ieee.org/abstract/document/9719105
   categories: ["quantumcomputing"]
-  tags: ["Quantum Computing", "Quantum Walk"]
+  tags: ["Quantum Computing"]

@@ -14,9 +14,9 @@ languages:
   en:
     languageName: English
     weight: 1
-  zh-tw:
-    languageName: 中文
-    weight: 3
+  # zh-tw:
+  #   languageName: 中文
+  #   weight: 3
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
@@ -84,22 +84,22 @@ params:
       enable: true
 
     # Enable and configure blog posts
-    blog:
-      enable: true
-      # Share post on different social media
-      shareButtons:
-        facebook: true
-        twitter: true
-        linkedin: true
-        reddit: true
-        whatsapp: true
-        email: true
-        # tumblr: true
-        # pocket: true
-        # diaspora: true
-        # mastodon: true
+    # blog:
+    #   enable: true
+    #   # Share post on different social media
+    #   shareButtons:
+    #     facebook: true
+    #     twitter: true
+    #     linkedin: true
+    #     reddit: true
+    #     whatsapp: true
+    #     email: true
+    #     # tumblr: true
+    #     # pocket: true
+    #     # diaspora: true
+    #     # mastodon: true
 
-    # Enable & configure "Notes" features
+    # # Enable & configure "Notes" features
     notes:
       enable: true
 

@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I'm a freshman and Regents Scholar at the University of California, San Diego (UCSD), majoring in Computer Science. I'm a motivated and talented student interested in developing future technology, especially in the fields of Artificial Intelligence, Mixed Reality, and Neurotechnology. I approach challenges with an innovative and hard-working mindset. Besides being a student, I'm a competitive programmer, researcher, developer, and innovator."
+summary: "Hi, I am Tse-kai (Kevin) Chan. I'm a second-year CS major and Regents Scholar at the University of California, San Diego (UCSD). I'm a motivated student interested in emerging and innovative technologies. Currently, I research RL/Robotics in Prof. Hao Su's Lab and work on AI/VR software at Qualcomm Institute. I have solid programming experience in Java and Python, and moderate experience in C++, JavaScript, and Kotlin. In my projects and internships, I have used Git, PyTorch, Docker, Unreal Engine, React.js, LaTeX, Simulink, etc., and have experience in research, deep learning, reinforcement learning, computer vision, and android/VR/web developments. Besides being a student, I'm a competitive programmer, researcher, developer, and innovator."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -53,7 +53,7 @@ badges:
 - type: certification
   name: UC San Diego
   url: "https://www.ucsd.edu"
-  badge: "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_California%2C_San_Diego_seal.svg/300px-University_of_California%2C_San_Diego_seal.svg.png"
+  badge: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Seal_of_the_University_of_California%2C_San_Diego.svg/1024px-Seal_of_the_University_of_California%2C_San_Diego.svg.png"
 
 #- type: certification
 #  name: Istio and IBM Cloud Kubernetes Service

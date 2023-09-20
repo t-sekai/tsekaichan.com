@@ -12,71 +12,59 @@ section:
 experiences:
 
 - company:
-    name: Qualcomm Institute Metaverse Academy and Center for Cyber-archaeology and Sustainability
-    url: "http://ccas.ucsd.edu"
+    name: Qualcomm Institute, UC San Diego
+    url: "https://ivc.ucsd.edu/cyberarchwarehouse/"
     location: San Diego, California
     # company overview
-    overview: The Cyber-Archaeology Center at the University of California researches technology like 3D modeling and AI to study archaeological sites and artifacts, and promotes interdisciplinary collaborations between experts to develop new methods for analyzing and interpreting data.
+    overview: 'Team: Historic Metahuman'
   positions:
-  - designation: Research and Development (R&D) Intern
+  - designation: Research and Development Intern
     start: April 2023
     end: Present
     responsibilities:
-    - I am further developing the CyberArchWarehouse, an immersive collaborative environment within Unreal Engine 5 developed at the Qualcomm Institutes' Center for Cyber-archaeology and Sustainability.
-    - The CyberArchWarehouse is an open ‘metaverse’ for education and research communities that blends VR/AR, photogrammetry, GIS, and edge computing based rendering. It provides researchers and students a new social medium in which they can come together, analyze and study digitized assets from archaeological artifacts to fully simulated digital twins of natural and manmade structures.
-    - https://cyberarch.pages.nrp-nautilus.io/cyberarchweb/
+    - Co-developed interactive 3D avatars of historical figures in Unreal Engine 5, driven by large language models and end-to-end text-to-speech/face pipeline. Implemented speaker-tracking module for webcam and multi-player VR. The cyber-archeology project serves to preserve and educate cultural heritage.
+    - Developed a dynamic real-time processing audio-to-face pipeline that receives input from text-to-speech, uses Audio2Face with Rest API to simulate facial movements from audio, and renders on a 3D avatar. Developed a multi-speaker tracking model to drive a Metahuman's attention and face/body motion using Google MediaPipe.
+    - Researching lightweight, attention-based residual neural network models that process real-time text/audio/visual data to simulate personalized facial blendshapes and body/hand gestures for conversational Metahumans.
+    - 'Skills: Unreal Engine 5, NVIDIA Omniverse Audio2Face, Python, PyTorch, LMDB, Google Mediapipe, Docker, Kubernetes' 
 
 - company:
     name: SU Lab @ UC San Diego
     url: "https://cseweb.ucsd.edu/~haosu/"
     location: San Diego, California
     # company overview
-    overview: SU Lab led by Professor Hao Su investigates on topics in computer vision, machine learning, and robotics.
+    overview: 'Advisor: Professor Hao Su'
   positions:
-  - designation: Regents Scholar Research Initiative
-    start: Sept 2022
+  - designation: Undergraduate Researcher
+    start: June 2023
     end: Present
     responsibilities:
-    - Studying and implementing the topics of computer vision, machine learning, and reinforcement learning.
-    - Planning to participate in research in the field in the coming quarters.
-
+    - Researching embodied AI and reverse reinforcement learning methods, which learns demonstrations in reverse to effectively solve long-horizon, sparse environments, under Ph.D. student Stone Tao.
+    - Used Python and various deep learning/RL libraries to benchmark various state-of-the-art demonstration-guided deep RL methods, including RLPD, IQL, DDPG+HER, etc, on ManiSkill2, D4RL and Meta-world tasks. Performed experiments on Kubernetes cluster using Docker.
+    - 'Skills: Research, Python, Gymnasium, PyTorch, Tensorflow, Google JAX, Deep RL Algorithms, Docker, Kubernetes'
 - company:
     name: Nearal
     url: "https://www.nearal.com"
     location: San Jose, California
-    overview: Nearal is a Silicon Valley startup and a location-based app for customers to search/browse and find local gig workers.
+    overview: "Team: Nearal Android Software"
   positions:
   - designation: Software Engineer Intern
     start: July 2022
     end: Feb 2022
     responsibilities:
-    - Worked to develop the onboarding and sign-in/up interfaces of Nearal's android app.
-    - Used Kotlin, Android Studio and GitLab in the process.
-
-- company:
-    name: Asian Pacific Islander American Public Affairs Association (APAPA)
-    url: "https://www.apapa.org"
-    location: Fremont, California
-    overview: APAPA promotes the advancement of Asian and Pacific Islander (API) Americans through active participation and leadership in civic and public affairs. 
-  positions:
-  - designation: Project Intern
-    start: Jun 2021
-    end: Sept 2021
-    responsibilities:
-    - Analyzed current water supply and demand trends and their impacts on California's economic development and agriculture using statistics and computational prediction.
-    - Researched and proposed solutions to solve urging problems, such as declining groundwater basins.
-    - Used MATLAB and Python in the process.
+    - Developed various features for Nearal's Android application, including a dynamic onboarding screen, a floating login interface, and an improved sign-up process, using Kotlin and Android Studio.
+    - Refined multiple app fragments, ensuring optimal functionality for both logged-in and logged-out users, and resolved critical issues such as photo display inconsistencies and profile identification.
+    - 'Skills: Kotlin, Android Studio, XML, Git'
 
 - company:
     name: Cisco
     url: "https://www.cisco.com"
     location: San Jose, California
-    overview: Cisco develops, manufactures, and sells networking hardware, software, telecommunications equipment and other high-technology services and products.
+    overview: In a high school job shadow, I worked under David Soper, a Technical Marketing Engineer working on Cisco Intersight, Cisco's product for managing multiple servers.
   positions:
   - designation: Software Engineer Intern (Job Shadow)
     start: July 2020
     end: August 2020
     responsibilities:
-    - Worked with mentor David Soper working on Cisco Intersight, Cisco's product for managing multiple servers.
-    - Implemented automation for a server policy deployment on Cisco Intersight.
-    - Learned from Cisco Executives and workers about career goals and topics, such as marketing, user interface design, and software development
+    - Learned industry-specific topics from Cisco employees and executives.
+    - Implemented automation for Boot Order Policy in server policy deployment on Cisco Intersight.
+    - 'Skills: Python, Ansible, Git' 

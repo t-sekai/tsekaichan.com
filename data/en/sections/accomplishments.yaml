@@ -24,23 +24,23 @@ accomplishments:
   organization:
     name: USA Computing Olympiad
     url: http://www.usaco.org
-  courseOverview: Highest division in the USA Computing Olympiad (Top 200 Nationwide).
+  courseOverview: Highest division in the most prestigious national pre-college algorithmic programming competition.
   #certificateURL: "https://example.com"
 
-- name: AIME Qualification
-  timeline: "Mar 2021"
-  organization:
-    name: Mathematical Association of America
-    url: https://www.maa.org/math-competitions/american-invitational-mathematics-examination-aime
-  courseOverview: Qualified for the American Invitational Mathematics Examination (Top 5% of AMC 12)
-  #certificateURL: "https://example.com"
+# - name: AIME Qualification
+#   timeline: "Mar 2021"
+#   organization:
+#     name: Mathematical Association of America
+#     url: https://www.maa.org/math-competitions/american-invitational-mathematics-examination-aime
+#   courseOverview: Qualified for the American Invitational Mathematics Examination (Top 5% of AMC 12)
+#   #certificateURL: "https://example.com"
 
-- name: Top 500 in Google KickStart Round A
-  timeline: "Mar 2019"
-  organization:
-    name: Google
-    url: https://codingcompetitions.withgoogle.com/kickstart
-  courseOverview: Top 500 in a Google programming contest (Top 3.5% out of ~13,700 contestants)
-  #certificateURL: "https://example.com"
+# - name: Top 500 in Google KickStart Round A
+#   timeline: "Mar 2019"
+#   organization:
+#     name: Google
+#     url: https://codingcompetitions.withgoogle.com/kickstart
+#   courseOverview: Top 500 in a Google programming contest (Top 3.5% out of ~13,700 contestants)
+#   #certificateURL: "https://example.com"
  
 
