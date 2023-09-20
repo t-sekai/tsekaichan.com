@@ -81,23 +81,23 @@ params:
 
     # Enable and configure portfolio
     portfolio:
-      enable: true
+      enable: false
 
     # Enable and configure blog posts
-    # blog:
-    #   enable: true
-    #   # Share post on different social media
-    #   shareButtons:
-    #     facebook: true
-    #     twitter: true
-    #     linkedin: true
-    #     reddit: true
-    #     whatsapp: true
-    #     email: true
-    #     # tumblr: true
-    #     # pocket: true
-    #     # diaspora: true
-    #     # mastodon: true
+    blog:
+      enable: false
+      # Share post on different social media
+      shareButtons:
+        facebook: true
+        twitter: true
+        linkedin: true
+        reddit: true
+        whatsapp: true
+        email: true
+        # tumblr: true
+        # pocket: true
+        # diaspora: true
+        # mastodon: true
 
     # # Enable & configure "Notes" features
     notes:
