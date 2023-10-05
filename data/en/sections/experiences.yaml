@@ -38,7 +38,7 @@ experiences:
     start: June 2023
     end: Present
     responsibilities:
-    - Researching embodied AI and reverse reinforcement learning methods, which learns demonstrations in reverse to effectively solve long-horizon, sparse environments, under Ph.D. student Stone Tao.
+    - Researching embodied AI and demo-guided deep reinforcement learning methods.
     - Used Python and various deep learning/RL libraries to benchmark various state-of-the-art demonstration-guided deep RL methods, including RLPD, IQL, DDPG+HER, etc, on ManiSkill2, D4RL and Meta-world tasks. Performed experiments on Kubernetes cluster using Docker.
     - 'Skills: Research, Python, Gymnasium, PyTorch, Tensorflow, Google JAX, Deep RL Algorithms, Docker, Kubernetes'
 - company:
